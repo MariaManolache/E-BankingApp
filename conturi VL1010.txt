@@ -1,0 +1,3 @@
+Cont: idClient: VL1010, iban: RO19MNL5473847382048, valuta: RON, balanta: 2800.0, tip: Credit, limita: 10000.0; 
+Cont: idClient: VL1010, iban: RO19MNL0934567283749, valuta: USD, balanta: 2175.75, tip: Debit; 
+Cont: idClient: VL1010, iban: RO19MNL6233033447146, valuta: EUR, balanta: 0.0, tip: Debit; 

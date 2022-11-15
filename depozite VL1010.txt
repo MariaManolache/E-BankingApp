@@ -1,0 +1,3 @@
+      IBAN           Id client      Denumire       Perioada      IBAN depozit     Dobanda  Suma
+RO19MNL2413446251192   VL1010   Depozit-masina   SASE_LUNI   RO19MNL0934567283749   0.05   1000.0
+RO19MNL3952825914419   VL1010   Depozit-mobila   NOUA_LUNI   RO19MNL0934567283749   0.05   500.0

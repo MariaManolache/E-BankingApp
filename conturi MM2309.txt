@@ -1,0 +1,7 @@
+Cont: idClient: MM2309, iban: RO19MNL7563987688092, valuta: USD, balanta: 2150.5, tip: Credit, limita: 5000.0; 
+Cont: idClient: MM2309, iban: RO19MNL2630811464558, valuta: RON, balanta: 0.0, tip: Debit; 
+Cont: idClient: MM2309, iban: RO19MNL4339100502398, valuta: USD, balanta: 600.0, tip: Debit; 
+Cont: idClient: MM2309, iban: RO19MNL1711540349598, valuta: USD, balanta: 100.0, tip: Credit, limita: 4000.0; 
+Cont: idClient: MM2309, iban: RO19MNL1917558746175, valuta: EUR, balanta: 0.0, tip: Debit; 
+Cont: idClient: MM2309, iban: RO19MNL2881359573636, valuta: RON, balanta: 100.0, tip: Debit; 
+Cont: idClient: MM2309, iban: RO19MNL8014527832282, valuta: EUR, balanta: 2750.5, tip: Credit, limita: 4000.0; 

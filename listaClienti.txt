@@ -1,0 +1,1 @@
+  Nume         Prenume           CNP       Data nasterii Sex  Id client ParolaManolache   Maria-Catalina   6000923768945   23.09.2000   F   MM2309   parolaVasilescu   Luca-Stefan   5001010783412   10.10.2000   M   VL1010   parola2Ivanescu   Georgiana   6000423675465   23.04.2000   F   IG2304   parola3
